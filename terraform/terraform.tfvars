@@ -1,5 +1,5 @@
 project = "your-project-id"
 region = "us-central1"
 zone = "us-central1-a"
-machine_type = "e2-standard-2"
+machine_type = "e2-standard-4"
 ttl = "3d"
